@@ -39,8 +39,10 @@ Tenho experiência consolidada no setor de logística e inventários, e atualmen
   </a>
 </div>
 
+<!--
 ---
 
 ## 🤝 Vamos nos conectar?
 
 [![- LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_O_LINK_DO_SEU_LINKEDIN_AQUI)
+-->
